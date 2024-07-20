@@ -29,6 +29,8 @@ To run the program, simply execute the following command in your terminal:
 ```bash
 ./cimbGO
 ```
+![image](https://github.com/user-attachments/assets/5a7c2db4-fd54-474b-9cc6-64fc034e3e6f)
+![image](https://github.com/user-attachments/assets/9b9d584f-d1e2-4a0f-8794-bf60e1be40e6)
 
 ## Known Issues
 Internet Connection: The program is currently unable to recover once the internet connection is lost. If the connection drops, you will need to restart the program to resume tracking.
