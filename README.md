@@ -1,4 +1,4 @@
-# cimbGO
+# cimbGo
 
 ## Overview
 cimbGO is a Go program designed to track the exchange rate from SGD (Singapore Dollar) to MYR (Malaysian Ringgit) for CIMB Bank. This tool provides real-time updates on the exchange rate, making it easier for users to monitor currency fluctuations.
